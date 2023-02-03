@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2023-02-03 08:26:28 -0400
+date: 2023-02-03 08:26:28 +09:00
 categories: jekyll update
 ---
 
